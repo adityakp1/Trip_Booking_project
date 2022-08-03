@@ -45,6 +45,7 @@ body {
     font-size: 3.2vmin;
     color: rgb(107, 107, 107);
     margin-top: 80px;
+    text-align: center;
 }
 
 .line {
@@ -107,7 +108,8 @@ body {
 
 @media only screen and (max-width:600px) {
     .gallery a {
-        width: 80%;
+        width: 88%;
+        margin: 25px;
     }
 }
 
